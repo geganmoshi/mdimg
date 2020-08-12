@@ -17,3 +17,8 @@ his is an [example link 6 ](cupshe://cupshe.com/collection?source=google&collect
 his is an [example link 7 ](cupshe://cupshe.com/collection?source=google&variantId=788 "google test 2"). 
 
 this is an [社区首页](https://cupshe.app.link/tkULzfDzS8 "branch test 1"). 
+
+this is an [社区话题](https://cupshe.app.link/YDREv5XzS8 "branch test 2"). 
+
+this is an [社区文章](https://cupshe.app.link/FSZbWT7zS8 "branch test 3"). 
+
