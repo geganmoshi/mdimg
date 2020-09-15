@@ -24,5 +24,5 @@ this is an [社区文章](https://cupshe.app.link/FSZbWT7zS8 "branch test 3").
 
 this is an [app首页](https://cupshe.app.link/ccvZQfwaW8 "branch test 4"). 
 
-this is an [app首页](https://github.com/geganmoshi/mdimg/blob/master/FormatFactoryPart1.mp3 "branch test 4"). 
+this is an [app首页](https://raw.githubusercontent.com/geganmoshi/mdimg/master/FormatFactoryPart1.mp3 "branch test 4"). 
 
