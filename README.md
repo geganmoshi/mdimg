@@ -12,9 +12,11 @@ his is an [example link 4 ](https://cupshe.app.link/uvZIyQn1x7 "With a Title").
 
 his is an [example link 5 ](https://cupshe.app.link/NmMUdIn0x7 "With a Title"). 
 
-his is an [example link 6 ](cupshe://cupshe.com/collection?source=google&collection=123 "google test 1"). 
+his is an [example link google collecton ](cupshe://cupshe.com/collection?source=google&collection=123 "google test 1"). 
 
-his is an [example link 7 ](cupshe://cupshe.com/collection?source=google&variantId=788 "google test 2"). 
+his is an [example link 7 google productdetail](cupshe://cupshe.com/collection?source=google&variantId=788 "google test 2"). 
+
+his is an [example link 7 adjust](https://kggl.adj.st/collection/3?adjust_t=bqr0i8h&adjust_deeplink=cupshe%3A%2F%2Fcollection%2F4 "google test 2"). 
 
 this is an [社区首页](https://cupshe.app.link/tkULzfDzS8 "branch test 1"). 
 
