@@ -28,3 +28,5 @@ this is an [app首页](https://cupshe.app.link/ccvZQfwaW8 "branch test 4").
 
 this is an [app首页](https://raw.githubusercontent.com/geganmoshi/mdimg/master/FormatFactoryPart1.mp3 "branch test 4"). 
 
+his is an [example link 8 adjust](https://kggl.adj.st/collection/3?adj_t=vod67xx&adj_deep_link=cupshe%3A%2F%2Fcollection%2F3&adj_redirect_ios=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fcupshe-swimsuit-fashion-shop%2Fid1177423676&adj_redirect_android=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.cupshe.cupshe").
+
