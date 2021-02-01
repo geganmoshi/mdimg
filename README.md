@@ -34,7 +34,7 @@ this is an [example link homepage adjust](https://kggl.adj.st?adj_t=vod67xx&adj_
 
 this is an [branch](https://cupshe.app.link/qoalDYfPwbb "button test 6"). 
 
-this is an [button product](https://r.bttn.io?btn_ref=org-3eec44df0966f6f0&btn+url=cupshe://product/537 "branch test 5"). 
+this is an [button product](https://cupshe.bttn.io?btn_ref=org-3eec44df0966f6f0&btn+url=cupshe://product/537 "branch test 5"). 
 
-this is an [button collection](https://r.bttn.io?btn_ref=org-3eec44df0966f6f0&btn+url=cupshe://collection/210 "branch test 5"). 
+this is an [button collection](https://cupshe.bttn.io?btn_ref=org-3eec44df0966f6f0&btn+url=cupshe://collection/210 "branch test 5"). 
 
