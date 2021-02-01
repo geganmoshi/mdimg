@@ -34,5 +34,5 @@ this is an [example link homepage adjust](https://kggl.adj.st?adj_t=vod67xx&adj_
 
 this is an [branch](https://cupshe.app.link/qoalDYfPwbb "button test 6"). 
 
-this is an [button](https%3A%2F%2Fwww.cupshe.com%2Fcollections%2Feditor-picks%2Fproducts%2Fcupshe-hit-summer-stripe-bikini-set "branch test 5"). 
+this is an [button](https://www.cupshe.com/collections/editor-picks/products/cupshe-hit-summer-stripe-bikini-set "branch test 5"). 
 
