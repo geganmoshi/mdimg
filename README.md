@@ -38,7 +38,7 @@ this is an [button product](https://cupshe.bttn.io?btn_ref=org-3eec44df0966f6f0&
 
 this is an [button collection](https://cupshe.bttn.io?btn_ref=org-3eec44df0966f6f0&btn_url=cupshe://collection/210 "branch test 5"). 
 
-this is an [button collection2](https://r.bttn.io?btn_ref=org-3eec44df0966f6f0&btn_url=https://www.cupshe.com/all-sales "branch test 5"). 
+this is an [button collection2](https://cupshe.bttn.io/category/443?btn_ref=fakesrctok-a61eb76a395d7ab6 "branch test 5"). 
 
 this is an [button test link](https://r.bttn.io?btn_ref=org-3eec44df0966f6f0&btn_url=https://www.cupshe.com/collections/editor-picks/products/cupshe-hit-summer-stripe-bikini-set "branch test 5"). 
 
