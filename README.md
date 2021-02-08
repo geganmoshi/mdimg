@@ -38,5 +38,5 @@ this is an [button product](https://cupshe.bttn.io?btn_ref=org-3eec44df0966f6f0&
 
 this is an [button app install](https://cupshe.bttn.io/category/443?btn_ref=fakesrctok-a61eb76a395d7ab6 "branch test 5"). 
 
-this is an [button app uninstall](https://r.bttn.io?btn_ref=org-3eec44df0966f6f0&btn_url=https%3A%2F%2Fwww.cupshe.com%2Fcollections%2Fbeachwear "branch test 5"). 
+this is an [button app uninstall](https://r.bttn.io?btn_ref=org-3eec44df0966f6f0&btn_url=https%3A%2F%2Fwww.cupshe.com%2Fcollections%2Fnew-in-bikini-sets "branch test 5"). 
 
